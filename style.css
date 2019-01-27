@@ -1,9 +1,13 @@
 h1.{
 	font-size: 40px;
 	color: green;
+	text-align: center;
 
 }
 
+h2.{
+	font-weight: bold;
+	opacity: 0.75;
 	color: green;
 	
 
