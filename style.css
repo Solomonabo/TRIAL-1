@@ -1,19 +1,30 @@
-h1.{
-	font-size: 40px;
-	color: green;
-	text-align: center;
+h2 {
+		color: white;
 
-}
+	}
+	body {
+		background-color: black;
 
-h2.{
-	font-weight: bold;
-	opacity: 0.75;
-	color: green;
-	
+		text-align: left;
+	}
+	h1 {
+		color: black;
 
-}
-.body{
-	font-weight: 20px;
-	text-align: center;
 
-}
+	}
+	img {
+		text-align: center;
+	}
+	ul{
+		color:purple;
+		background-color: grey;
+	}
+	#main {
+		color:white;
+		text-align: center;
+		font-weight: bold;
+		font-size: 35px
+	}
+	img {
+		align-items: right;
+	}
